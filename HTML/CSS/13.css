@@ -4,7 +4,8 @@ body {
 }
 
 .content {
-    background-image: url("background.jpg");
+  background-image: url("background.jpg");
+  background-size: cover;
   border: 3px solid black;
   padding: 20px;
   margin: 50px;
@@ -15,13 +16,13 @@ body {
 h1 {
   text-decoration: underline;
   font-family: Arial, sans-serif;
-  color: violet;
+  color: rgb(197, 245, 6);
 }
 
 p {
   font-size: 18px;
   font-style: italic;
-  color: darkslategray;
+  color: rgb(205, 235, 7);
 }
 
 a {
